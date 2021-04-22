@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dishes</string>
+
+
+    <string name="title_all_dishes">All Dishes</string>
+    <string name="title_favorite_dishes">Favorite</string>
+    <string name="title_random_dish">Random Dish</string>
+
+    <string name="splash_screen_title">Fav Dish</string>
+    <string name="add_dish">Add Dish</string>
+    <string name="lbl_add_dish">ADD DISH</string>
+    <string name="image_contentDescription">image</string>
+    <string name="add_image_contentDescription">addImage</string>
+    <string name="lbl_type">Type</string>
+    <string name="lbl_category">Category</string>
+    <string name="lbl_ingredients">Ingredients</string>
+    <string name="lbl_cooking_time_in_minutes">Cooking time in minutes</string>
+    <string name="lbl_direction_to_cook">Direction to cook</string>
+    <string name="title">Title</string>
+    <string name="title_select_image_action">Select Image Action</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+    <string name="btn_add">Add Dish</string>
+    <string name="no_dishes_added_yet">No dishes added yet!</string>
+
+
+</resources>
